@@ -1,5 +1,5 @@
 ---
-title: 2milion
+title: 
 draft: false
 tags:
   - linux

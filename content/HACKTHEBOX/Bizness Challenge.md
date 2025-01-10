@@ -1,5 +1,5 @@
 ---
-title: Bizness
+title: 
 draft: false
 tags:
   - linux
