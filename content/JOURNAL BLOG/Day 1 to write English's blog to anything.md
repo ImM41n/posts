@@ -1,6 +1,6 @@
 ---
 title: Day 1 to write English's blog to anything
-draft: true
+draft: false
 tags:
   - English
   - CRTA
